@@ -1,3 +1,4 @@
+[Question link](https://www.hackerrank.com/contests/aids-hw-day6/challenges/chairs-required)  
 This year X students joined his class and each student will require one chair to sit on. Veer already has Y chairs in his class. Determine the minimum number of new chairs Veer must buy so that every student is able to get one chair to sit on
 
 # Input Format
